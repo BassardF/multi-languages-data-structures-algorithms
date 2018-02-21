@@ -1,0 +1,4 @@
+The Fibonacci sequence
+
+* has an initial state = [1, 1]
+* is made so that for each index n >=2, fib(n) = fib(n-1) + fib(n-2)
