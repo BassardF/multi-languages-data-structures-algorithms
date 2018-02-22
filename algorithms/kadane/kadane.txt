@@ -1,1 +1,13 @@
 Maximum subarray problem
+
+=> Given an array of number :
+  Find the continuous subarray that has the largest sum when summing all his components
+  Return the sum
+
+Examples :
+
+* [2, 1, 2, 0]
+  => 5 (the subarray is always the array itself when all the numbers are positives)
+
+* [1, -3, 2, 1, -1]
+  => 3, the subarray [2, 1] is the one having the largest sum of components
